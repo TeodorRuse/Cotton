@@ -1,2 +1,2 @@
 # Cotton
-An app
+Comming soon...
