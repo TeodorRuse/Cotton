@@ -59,11 +59,11 @@
 
 Here are some screenshots and demo videos of **Cotton** in action:
 
-## Webapp preview: 
-  ![mainDemo](https://github.com/user-attachments/assets/71083c6f-dcf7-4c21-984e-4fd6602d9d4a)
+##Web Application preview: 
+ https://github.com/user-attachments/assets/71083c6f-dcf7-4c21-984e-4fd6602d9d4a
 
 ## Articles being send from the embedder to the main server:
-  ![flow demo](https://github.com/user-attachments/assets/e85bbc16-56e2-4b63-a24a-a6e63e507bd2)
+  https://github.com/user-attachments/assets/e85bbc16-56e2-4b63-a24a-a6e63e507bd2
 
 ## Docker
  ![docker](https://github.com/user-attachments/assets/98cbb243-1a7e-4f74-b9ca-7eddba89ddc8)
@@ -73,7 +73,5 @@ Here are some screenshots and demo videos of **Cotton** in action:
 
 ## Kafka Offset Explorer
   ![OffsetExplorer](https://github.com/user-attachments/assets/9f35b70e-e7c1-4709-a88f-1654bf7e3629)
-
-
 
 
