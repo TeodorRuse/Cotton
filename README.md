@@ -60,7 +60,7 @@
 Here are some screenshots and demo videos of **Cotton** in action:
 
 ##Web Application preview: 
- https://github.com/user-attachments/assets/71083c6f-dcf7-4c21-984e-4fd6602d9d4a
+  https://github.com/user-attachments/assets/71083c6f-dcf7-4c21-984e-4fd6602d9d4a
 
 ## Articles being send from the embedder to the main server:
   https://github.com/user-attachments/assets/e85bbc16-56e2-4b63-a24a-a6e63e507bd2
