@@ -1,6 +1,0 @@
-rootProject.name = 'MainServerJava'
-include 'RestServices'
-include 'RestServices'
-include 'Domain'
-include 'Worker'
-
